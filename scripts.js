@@ -1,2 +1,4 @@
-// Write your JavaScript code here.
-// Remember to pay attention to page loading!
+function init () {
+const takeoffbutton = document.getElementById("takeoff");
+const paragraph = document.getElementById("flightstatus");
+}
